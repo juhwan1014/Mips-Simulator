@@ -1,6 +1,6 @@
 # Mips-Simulator
 
-## 1. Project Introduction
+## 1. Project Introduction 
 This project is a MIPS Simulator task that translates binary input files into single-cycle MIPS by referring to the MIPS green sheet. <br /><br />
 'Fetch'     -> using 'fopen', 'fread' to pull out a single line of input binary files. <br />
 'Decode'  -> Save the extracted instruction in memory and analyze it according to each type.<br />
